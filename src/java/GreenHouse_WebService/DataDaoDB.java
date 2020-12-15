@@ -18,8 +18,7 @@ public class DataDaoDB {
             e.printStackTrace();
         }
     }
-    
-    
+
     public List<Sensordata> getAllData(){
         List<Sensordata> allData = new ArrayList<>();
         
@@ -129,13 +128,3 @@ public class DataDaoDB {
     }
        
 }
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
