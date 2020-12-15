@@ -8,7 +8,6 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces; 
 import javax.ws.rs.core.MediaType; 
 
-
 @Path("/DataDBService")
 
 public class DataDBService {
@@ -46,7 +45,6 @@ public class DataDBService {
       res += "</TABLE></HTML>";
       return res;
    } 
-   
    
    @GET 
    @Path("/data/{id}") 
