@@ -1,6 +1,5 @@
 package GreenHouse_WebService;
 
-
 import java.util.List;
 
 public interface IDataDao {
