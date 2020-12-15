@@ -33,5 +33,4 @@ public class ApplicationConfig extends Application {
         resources.add(GreenHouse_WebService.service.SektorerFacadeREST.class);
         resources.add(GreenHouse_WebService.service.SensordataFacadeREST.class);
     }
-    
 }
