@@ -164,5 +164,4 @@ public class Sensordata implements Serializable {
     public String toString() {
         return "greenhouse.Sensordata[ id=" + id + " ]";
     }
-    
 }
