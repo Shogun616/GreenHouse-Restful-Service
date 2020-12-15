@@ -125,5 +125,4 @@ public class Sektorer implements Serializable {
     public String toString() {
         return "GreenHouse_WebService.Sektorer[ id=" + id + " ]";
     }
-    
 }
