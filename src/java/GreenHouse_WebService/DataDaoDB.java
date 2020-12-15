@@ -119,12 +119,10 @@ public class DataDaoDB {
             if (rowChanged == 1){  //en rad ändrades
                 return true;
             }
-
         }
         catch (Exception e){
             e.printStackTrace();
         }
         return false;
     }
-       
 }
