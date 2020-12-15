@@ -87,6 +87,4 @@ public class SensordataFacadeREST extends AbstractFacade<Sensordata> {
     protected EntityManager getEntityManager() {
         return em;
     }
-    
-    
 }
